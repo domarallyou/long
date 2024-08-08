@@ -1,0 +1,5 @@
+abcdefghijklmnopqrstuvwxyz0123456789_{}!@$&.-ABCDEFGHIJKLMNOPQRSTUVWXYZ:/\%^&*()-=+<>'"[]|
+
+https://www.checkpoint.com/cyber-hub/cloud-security/what-is-multi-cloud-security/#:~:text=Multi%2Dcloud%20security%20is%20a,multiple%20cloud%20infrastructures%20and%20environments
+
+https://www.wiz.io/academy/multi-cloud-security
